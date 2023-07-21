@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<config version="1.0">
+    <window fit="true" fit_x="0" fit_y="0" fullscreen="false" height="800" part_order="123" width="1148" x="607" y="2"/>
+    <recent_projects>
+        <project name="Spider_Light_Green" path="C:\Users\Kostiantyn\GearWatchDesigner\workspace\" type="1"/>
+        <project name="Spider_Dark_Green" path="C:\Users\Kostiantyn\GearWatchDesigner\workspace\" type="1"/>
+    </recent_projects>
+    <last_connected ip="192.168.1.40"/>
+    <custom_colors>
+        <color b="255" g="255" r="255"/>
+        <color b="255" g="255" r="255"/>
+        <color b="255" g="255" r="255"/>
+        <color b="255" g="255" r="255"/>
+        <color b="255" g="255" r="255"/>
+        <color b="255" g="255" r="255"/>
+        <color b="255" g="255" r="255"/>
+        <color b="255" g="255" r="255"/>
+        <color b="255" g="255" r="255"/>
+        <color b="255" g="255" r="255"/>
+    </custom_colors>
+    <tried_ip>
+        <ip ip="192.168.1.40"/>
+    </tried_ip>
+</config>
