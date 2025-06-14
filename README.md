@@ -1,4 +1,7 @@
 # Ideas
+: Service to show any amount of anything, for example show me 1 billion of cars/elephants/whatever
+
+: Point finger moving simulator. Boost your quick reading everywhere! Highlight text in all applications with reading text.
 
 : Interactive workout Android app like Thenx where is 3d human body with muscles. You can tap to any muscle and list of exersices appears to show which are the best for this specified muscle.
 
