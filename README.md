@@ -1,4 +1,6 @@
 # Ideas
+: A shop of unique, one-of-a-kind food and baked goods. Each dish is unique.
+
 : Service to show any amount of anything, for example show me 1 billion of cars/elephants/whatever
 
 : Point finger moving simulator. Boost your quick reading everywhere! Highlight text in all applications with reading text.
