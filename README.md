@@ -43,3 +43,5 @@ Ex. start track with jazz motif, continue with reggae rithm and finish with some
 : How many water you need by pulse data
 
 : Blog: how to move some stuff without a car?
+
+: Room Auto Designer app - Set best position for current furniture in room, do not add another furniture, use only current one.
