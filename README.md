@@ -2,6 +2,8 @@
 
 - My Android app - create your own Android app (like own site, youtube channel, etc)
 
+- Eco friendly app. Calculate your waste impact. How many trees you should plant
+
 - A shop of unique, one-of-a-kind food and baked goods. Each dish is unique.
 
 - Service to show any amount of anything, for example show me 1 billion of cars/elephants/whatever
