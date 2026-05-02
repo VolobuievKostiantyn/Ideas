@@ -1,5 +1,7 @@
 # Ideas
 
+- App to detect wrong posture during working on PC: fix posture, than work!
+
 - My Android app - create your own Android app (like own site, youtube channel, etc)
 
 - Eco friendly app. Calculate your waste impact. How many trees you should plant
