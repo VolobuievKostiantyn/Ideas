@@ -44,9 +44,10 @@ Concept: the sound will increase depending the number of ovations.
 Set several levels of ovations.
 
 - MoodAdaptMusic
-Application where you begin play some track and adapt its style a according to your mood.
-Ex. start track with jazz motif, continue with reggae rithm and finish with some liric.
-
+Application where you begin play some track and adapt its style according to your mood.
+Ex. start track with jazz motif continue with reggae rithm and finish with some liric
+https://karen-guardiana.medium.com/i-used-ai-to-rearrange-my-spotify-playlist-claude-vs-deepseek-fce6698dca5a
+Mood music finder: find music in your local file system according to your request. Ex. "find music for running", "find music for relaxing and outdoor rest"
 - How many water you need by pulse data
 
 - Blog: how to move some stuff without a car?
