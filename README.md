@@ -1,5 +1,7 @@
 # Ideas
 
+- Service/app (like cyborgs.work) to develop adaptive optimizm according to book of Martin Seligman.
+  
 - App to detect wrong posture during working on PC: fix posture, than work!
 
 - My Android app - create your own Android app (like own site, youtube channel, etc)
