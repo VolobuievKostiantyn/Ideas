@@ -1,6 +1,8 @@
 # Ideas
   
 - App to detect wrong posture during working on PC: fix posture, than work!
+  
+- Detect how long you spend outside
 
 - My Android app - create your own Android app (like own site, youtube channel, etc)
 
