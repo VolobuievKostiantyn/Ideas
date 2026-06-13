@@ -1,6 +1,6 @@
 # Ideas
   
-- App to detect wrong posture during working on PC: fix posture, than work!
+- Android application to hold human head straight during usage of smartphone (play on niotron.com). Wrong posture during working on PC: fix posture, than work!
   
 - Detect how long you spend outside
 
