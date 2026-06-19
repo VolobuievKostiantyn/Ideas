@@ -1,6 +1,8 @@
 # Ideas
   
 - Android application to hold human head straight during usage of smartphone (play on niotron.com). Wrong posture during working on PC: fix posture, than work!
+
+- HireCompass - CV help
   
 - Detect how long you spend outside
 
