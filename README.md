@@ -3,6 +3,8 @@
 - Android application to hold human head straight during usage of smartphone (play on niotron.com). Wrong posture during working on PC: fix posture, than work!
 
 - HireCompass - CV help
+
+- Service/app (like cyborgs.work) to develop adaptive optimizm according to book of Martin Seligman.
   
 - Detect how long you spend outside
 
