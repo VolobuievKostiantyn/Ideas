@@ -16,4 +16,6 @@
 
 - Service to show any amount of anything, for example show me 1 billion of cars/elephants/whatever
   
-- Robotics Studio: A personal robotics platfrorm that allows users to design, build and customize robots tailored to their needs. It is a modular robotics kit compatible with devices like smartphones and IoT sensors. User can access user-friendly app or web-based platform to create robots for personal, educational or professional use. Key features: modular design, user-friendly platform, customization. 
+- Robotics Studio: A personal robotics platfrorm that allows users to design, build and customize robots tailored to their needs. It is a modular robotics kit compatible with devices like smartphones and IoT sensors. User can access user-friendly app or web-based platform to create robots for personal, educational or professional use. Key features: modular design, user-friendly platform, customization.
+
+- SecurePrompt: Protecting User data in AI systems. Problem: users unintentionally share sensitive information (e.g., passwords, bank details) with AI assistants, leading to risks like social engineering, phising, and data breaches. Solution: AI-based system to monitor and analyze user prompts for sensitive information in real-time. Technology: Utilize NLP and ML to identify and flag sensitive data and block risky requests. Workflow: prompt analysis ->flagging/blocking->user notification->logging and review. Integration into existing AI services and platfroms.
