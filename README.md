@@ -2,6 +2,8 @@
   
 - Android application to hold human head straight during usage of smartphone (play on niotron.com). Wrong posture during working on PC: fix posture, than work!
 
+- Room Auto Designer app - Set best position for current furniture in room, do not add another furniture, use only current one
+
 - HireCompass - CV help. cvkeskus.ee+cv.ee+1182
 
 - Service/app (like cyborgs.work) to develop adaptive optimizm according to book of Martin Seligman.
