@@ -23,3 +23,5 @@
 - SecurePrompt: Protecting User data in AI systems. Problem: users unintentionally share sensitive information (e.g., passwords, bank details) with AI assistants, leading to risks like social engineering, phising, and data breaches. Solution: AI-based system to monitor and analyze user prompts for sensitive information in real-time. Technology: Utilize NLP and ML to identify and flag sensitive data and block risky requests. Workflow: prompt analysis ->flagging/blocking->user notification->logging and review. Integration into existing AI services and platfroms.
 
 - Service/app (like cyborgs.work) to develop adaptive optimizm according to book of Martin Seligman.
+  
+- Affection from childhood: determine a person's tastes and preferences based on pictures. The user views the images and determines the one that best suits his/her opinion/mood. Repeat the categories of pictures. Do conclusions.
