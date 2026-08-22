@@ -26,9 +26,9 @@
   
 - Affection from childhood: determine a person's tastes and preferences based on pictures. The user views the images and determines the one that best suits his/her opinion/mood. Repeat the categories of pictures. Do conclusions.
 
-- MoodAdaptMusic
-
-Application where you begin play some track and adapt its style according to your mood.
+- MoodAdaptMusic. Application where you begin play some track and adapt its style according to your mood.
 Ex. start track with jazz motif continue with reggae rithm and finish with some liric
 https://karen-guardiana.medium.com/i-used-ai-to-rearrange-my-spotify-playlist-claude-vs-deepseek-fce6698dca5a
 Mood music finder: find music in your local file system according to your request. Ex. "find music for running", "find music for relaxing and outdoor rest"
+
+- Detect how long you spend outside
