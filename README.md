@@ -32,3 +32,5 @@ https://karen-guardiana.medium.com/i-used-ai-to-rearrange-my-spotify-playlist-cl
 Mood music finder: find music in your local file system according to your request. Ex. "find music for running", "find music for relaxing and outdoor rest"
 
 - Detect how long you spend outside
+
+- Android application to hold human head straight during usage of smartphone
