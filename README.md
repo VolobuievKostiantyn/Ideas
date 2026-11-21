@@ -33,4 +33,4 @@ Mood music finder: find music in your local file system according to your reques
 
 - Detect how long you spend outside
 
-- Android application to hold human head straight during usage of smartphone
+- Android application to hold human head straight during usage of smartphone (play on niotron.com). Wrong posture during working on PC using your smartphone: fix posture, than work!
